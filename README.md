@@ -12,7 +12,7 @@ Agarda buni ```$language->setFallbackLang('ru');``` ko'rinishida yozsak ```lang_
 ```$api->sendMessage(['text' => T::start, 'parse_mode' => 'HTML']);```
 sendMessage - bu ko'pchilik odatda eski oddiy bot funktsiyasida ishlatgan ```bot('sendMessage', ['text' => "Salom"]);``` shu ko'rinishdagi matn yuborish.
 
-Aytib o'tsam buni istagancha o'zgartiring. Istasangiz sendAudio, sendVideo, katta kichik harfni farqi yo'q, SenDMESSAG yokida sendMessage bu ikkalasi ham ishlaydi.
+Aytib o'tsam buni istagancha o'zgartiring. Istasangiz sendAudio, sendVideo, katta kichik harfni farqi yo'q, SenDMESSAGe yokida sendMessage bu ikkalasi ham ishlaydi.
 
 
 Sezganingizdek ichidagi ```T::start``` bu til. T = translate lekin til desangiz ham bo'laverar ekan)

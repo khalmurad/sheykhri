@@ -1,10 +1,10 @@
-![PHP](https://img.shields.io/badge/php-%3E%3D7.4-8892bf.svg)
+![PHP](https://img.shields.io/badge/php-%3E%3D7.0-8892bf.svg)
 ![CURL](https://img.shields.io/badge/cURL-required-green.svg)
 
 O'zim yozgan bot uchun Framework. Ishlashni osonlashtiradi. Kod yozishda tezlashadiz ishiz. Ancha funktsiyalarini example kodda ishlatmadim. Aqliz yetsa ishlata olasiz, bor kuchida ishlatilsa zo'r ishlarni oson qilsa bo'ladi. Ba'zi joylari dehqoncha yozilgan.  i18 ishlatilgan ya'ni bemalol bir nechta tilni ishlata olasiz. Optimizatsiya. user step qo'yishga va step olishga imkoniyat yengil. knopka qo'shish imkoni zo'r.
 
 
-Ishlatish bo'yicha qo'llanma.
+# Ishlatish bo'yicha qo'llanma.
 
 ```$language->setFallbackLang('uz');```
 Tilni o'zgartirish uchun kerak, ```translate``` papkasidagi ```lang_uz.ini``` faylini yuklaydi.

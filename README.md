@@ -17,26 +17,33 @@ O'zim yozgan telegram bot uchun Framework. Ishlashni osonlashtiradi. Kod yozish 
 
 ## Ishlatish bo'yicha qo'llanma.
 [Til qo'llanmasi](#til)
+
 [Xabar yuborish](#xabar-yuborish)
 
 -------
 ### **Til**
 ```$language = new i18n();```
+
 Tilni ishga tushuramiz.
 
 ```$language->setPrefix('T');```
+
 Tilni **T** deb belgilab olamiz, belgilanmasa standart holatda **L** deb qabul qilinadi. Ishlatish paytida bizga kerak bo'ladi.
 
 ```$language->setFallbackLang('uz');```
+
 lang_uz.ini faylini yuklaydi.
 
 ```$language->setFallbackLang('ru');```
+
 lang_ru.ini faylini yuklaydi.
 
 ```$language->init();```
+
 Tilni ishga tushurish, barcha tilni sozlash amalidan keyin tilni ishga tushurish shart.
 
 -------
 ### **Xabar yuborish**
 ```$api->sendMessage(['text' => T::start, 'parse_mode' => 'HTML']);```
+
 sendMessage orqali **T::start**, ya'ni tanlangan til faylidan **start="Salom"** deyilgan joyni, HTML xolatida yuboramiz.

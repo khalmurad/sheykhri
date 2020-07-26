@@ -4,7 +4,9 @@
 ![CURL](https://img.shields.io/badge/cURL-required-green.svg)
 
 O'zim yozgan telegram bot uchun Framework. Ishlashni osonlashtiradi. Kod yozish tezlashadi. Ancha funktsiyalarini example kodda ishlatmadim. Aqliz yetsa ishlata olasiz, bor kuchida ishlatilsa zo'r ishlarni oson qilsa bo'ladi. Ba'zi joylari dehqoncha yozilgan.  i18 ishlatilgan ya'ni bemalol bir nechta tilni ishlata olasiz. Optimizatsiya. User step qo'yishga va step olishga imkoniyat yengil. Knopka qo'shish imkoni zo'r.
+
 --------
+
 # Ishlatish bo'yicha qo'llanma.
 
 ```$language->setFallbackLang('uz');```

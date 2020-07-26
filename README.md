@@ -11,6 +11,10 @@ O'zim yozgan telegram bot uchun Framework. Ishlashni osonlashtiradi. Kod yozish 
 ```
 https://github.com/sheykhri/sheykhri.git
 ```
+### Zip fayl ko'rinishida yuklab olish
+```
+https://github.com/sheykhri/sheykhri/archive/master.zip
+```
 
 -------
 

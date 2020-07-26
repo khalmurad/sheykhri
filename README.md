@@ -16,9 +16,9 @@ O'zim yozgan telegram bot uchun Framework. Ishlashni osonlashtiradi. Kod yozish 
 -------
 
 ## Ishlatish bo'yicha qo'llanma.
-[Til qo'llanmasi] (#til)
+[Til qo'llanmasi](#til)
 
-[Xabar yuborish] (#xabar-yuborish)
+[Xabar yuborish](#xabar-yuborish)
 
 -------
 ### **Til**

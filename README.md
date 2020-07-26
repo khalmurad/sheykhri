@@ -7,6 +7,13 @@ O'zim yozgan telegram bot uchun Framework. Ishlashni osonlashtiradi. Kod yozish 
 
 --------
 
+### Git orqali yuklab olish
+```
+https://github.com/sheykhri/sheykhri.git
+```
+
+-------
+
 # Ishlatish bo'yicha qo'llanma.
 
 ```$language->setFallbackLang('uz');```

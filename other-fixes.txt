@@ -1,0 +1,15 @@
+Assalomu alaykum.
+
+Class fayllarining nomlarini class nomi bilan bir xil yozishni maslahat beraman.
+Misol uchun:
+sheykhri/classes/translate.php faylining class nomi i18n deb nomlangan. 
+sheykhri/classes/user.php faylining class nomi USER deb nomlangan. 
+sheykhri/classes/PDO.php faylining class nomi DB deb nomlangan. 
+Shu nom bilan faylni ham nomlash kerak (i18n.php => i18n, user.php => user, PDO.php => PDO), yoki aksincha class nomini fayl nomi bilan bir xil qilish kerak (translate.php => translate, USER.php => USER, DB.php => DB).
+
+Undan tashqari fayllarning nomlanishini va classlarning nomlanishini katta yoki kichik harflar bilan emas, bosh harfi katta qolgani kichkina harflar bilan yozganingiz ma'qul. 
+Istisno ta'riqasida DB, PDO, i18n va shunga o'xshash atoqli bo'lib qolgan nomlar qolaversa ham bo'ladi.
+Masalan:
+translate.php => Translate.php,
+user.php => User.php,
+keyboard.php => Keyboard.php
